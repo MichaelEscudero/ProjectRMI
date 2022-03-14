@@ -1,3 +1,5 @@
+Se creo el proyecto RMI de acuerdo a la documentación enviada por el docente, se logro evidenciar una conexión remota entre interfaz y clase, donde se requiere una petición y se recibe una respuesta por parte del user.
+
 ![image](https://user-images.githubusercontent.com/101531597/158084197-f2f59df3-2178-468a-8fa7-64b43be1bc19.png)
 ![image](https://user-images.githubusercontent.com/101531597/158084221-69e7e2ac-9709-4250-a830-d52b31862988.png)
 iniciando registry
